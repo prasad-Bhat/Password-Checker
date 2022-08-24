@@ -1,6 +1,6 @@
 {
   "name": "checksee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cheks if a password is strong or weak",
   "main": "index.js",
   "scripts": {
