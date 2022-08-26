@@ -1,5 +1,5 @@
 
-# Checksee the simplest password checker
+# Simplest password checker
 
 Check your password Strong or Weak
 ## Conditions for a Strong Password
