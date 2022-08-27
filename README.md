@@ -28,10 +28,15 @@ const checksee = require('checksee')
 
 const result = checksee('Checksee$#1234')
 
-output : strong
+console.log(result)
+
+output : Strong
 
 
 const checksee = require('checksee') 
+
 const result = checksee('hvfbdv')
+
+console.log(result)
 
 output : Weak
